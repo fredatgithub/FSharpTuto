@@ -145,9 +145,9 @@ let rechercherAge nom =
     else
         None
 
-let age2 = rechercherAge "Jean"
+let age41 = rechercherAge "Jean"
 
-match age2 with
+match age41 with
 | Some valeur ->
     printfn "Age : %d" valeur
 
