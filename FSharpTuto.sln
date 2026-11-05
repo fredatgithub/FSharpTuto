@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37827.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpTuto", "FSharpTuto\FSharpTuto.fsproj", "{AC0122B5-5368-4E47-A612-007F3A1A01BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0122B5-5368-4E47-A612-007F3A1A01BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0122B5-5368-4E47-A612-007F3A1A01BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0122B5-5368-4E47-A612-007F3A1A01BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0122B5-5368-4E47-A612-007F3A1A01BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD8C973F-AE10-434E-B46F-44C11AF1D328}
+	EndGlobalSection
+EndGlobal
